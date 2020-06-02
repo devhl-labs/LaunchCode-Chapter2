@@ -1,0 +1,13 @@
+E:\repos\LaunchCode\Chapter2\2.5.4\bin\Debug\netcoreapp3.1\2.5.4.exe
+E:\repos\LaunchCode\Chapter2\2.5.4\bin\Debug\netcoreapp3.1\2.5.4.deps.json
+E:\repos\LaunchCode\Chapter2\2.5.4\bin\Debug\netcoreapp3.1\2.5.4.runtimeconfig.json
+E:\repos\LaunchCode\Chapter2\2.5.4\bin\Debug\netcoreapp3.1\2.5.4.runtimeconfig.dev.json
+E:\repos\LaunchCode\Chapter2\2.5.4\bin\Debug\netcoreapp3.1\2.5.4.dll
+E:\repos\LaunchCode\Chapter2\2.5.4\bin\Debug\netcoreapp3.1\2.5.4.pdb
+E:\repos\LaunchCode\Chapter2\2.5.4\obj\Debug\netcoreapp3.1\2.5.4.csprojAssemblyReference.cache
+E:\repos\LaunchCode\Chapter2\2.5.4\obj\Debug\netcoreapp3.1\2.5.4.AssemblyInfoInputs.cache
+E:\repos\LaunchCode\Chapter2\2.5.4\obj\Debug\netcoreapp3.1\2.5.4.AssemblyInfo.cs
+E:\repos\LaunchCode\Chapter2\2.5.4\obj\Debug\netcoreapp3.1\2.5.4.csproj.CoreCompileInputs.cache
+E:\repos\LaunchCode\Chapter2\2.5.4\obj\Debug\netcoreapp3.1\2.5.4.dll
+E:\repos\LaunchCode\Chapter2\2.5.4\obj\Debug\netcoreapp3.1\2.5.4.pdb
+E:\repos\LaunchCode\Chapter2\2.5.4\obj\Debug\netcoreapp3.1\2.5.4.genruntimeconfig.cache

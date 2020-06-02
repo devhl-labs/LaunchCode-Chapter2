@@ -1,0 +1,13 @@
+E:\repos\LaunchCode\Chapter2\2.5.2\bin\Debug\netcoreapp3.1\2.5.2.exe
+E:\repos\LaunchCode\Chapter2\2.5.2\bin\Debug\netcoreapp3.1\2.5.2.deps.json
+E:\repos\LaunchCode\Chapter2\2.5.2\bin\Debug\netcoreapp3.1\2.5.2.runtimeconfig.json
+E:\repos\LaunchCode\Chapter2\2.5.2\bin\Debug\netcoreapp3.1\2.5.2.runtimeconfig.dev.json
+E:\repos\LaunchCode\Chapter2\2.5.2\bin\Debug\netcoreapp3.1\2.5.2.dll
+E:\repos\LaunchCode\Chapter2\2.5.2\bin\Debug\netcoreapp3.1\2.5.2.pdb
+E:\repos\LaunchCode\Chapter2\2.5.2\obj\Debug\netcoreapp3.1\2.5.2.csprojAssemblyReference.cache
+E:\repos\LaunchCode\Chapter2\2.5.2\obj\Debug\netcoreapp3.1\2.5.2.AssemblyInfoInputs.cache
+E:\repos\LaunchCode\Chapter2\2.5.2\obj\Debug\netcoreapp3.1\2.5.2.AssemblyInfo.cs
+E:\repos\LaunchCode\Chapter2\2.5.2\obj\Debug\netcoreapp3.1\2.5.2.csproj.CoreCompileInputs.cache
+E:\repos\LaunchCode\Chapter2\2.5.2\obj\Debug\netcoreapp3.1\2.5.2.dll
+E:\repos\LaunchCode\Chapter2\2.5.2\obj\Debug\netcoreapp3.1\2.5.2.pdb
+E:\repos\LaunchCode\Chapter2\2.5.2\obj\Debug\netcoreapp3.1\2.5.2.genruntimeconfig.cache
